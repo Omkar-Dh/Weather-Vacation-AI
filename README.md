@@ -6,6 +6,8 @@ Using the National Weather Service API and ChatGPT API.
 ## Demonstration
 https://github.com/Omkar-Dh/Weather-Vacation-AI/assets/54332691/d1b4f097-3101-4fcb-8297-01f8432553c3
 
+Download Python Files and run main.py
+
 ## Configuration
 Enviroment Variable
 Parameter  | Description
