@@ -1,4 +1,4 @@
-# Weather-Vacation-AI
+# Weather-Vacation-Natural-Language-Processing
 
 A Vacation Planner that gives locations to visit based on time of day, weather and proximity to location. 
 Using the National Weather Service API and ChatGPT API.
